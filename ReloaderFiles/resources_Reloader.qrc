@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ReloaderFiles" >
+        <file>reload.png</file>
+    </qresource>
+</RCC>
